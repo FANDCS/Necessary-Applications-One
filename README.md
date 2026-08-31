@@ -1,2 +1,2 @@
 # Necessary-Applications-One-
-Necessary Applications (One) is a txt database of usefull apps and websites
+Το συγκεκριμένο repository περιέχει ένα txt database από διάφορες εφαρμογές και ιστοσελίδες όπου αναγράφονται τα χαρακτηριστικά τους
